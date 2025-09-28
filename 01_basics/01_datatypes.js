@@ -24,4 +24,18 @@
 // console.log(+true);
 
 // ******************compare****************
- console.log("02"=="2");
+//  console.log("02"=="2");
+
+// let aId=Symbol('123');
+// let bId=Symbol('123');
+// console.log(aId,bId);
+
+// let myObj = {
+//     name: 'John',
+//     age: 30
+// }
+// console.log(myObj);
+
+// console.log(typeof myObj);
+// console.log(typeof undefined);
+// console.log(typeof bId);
