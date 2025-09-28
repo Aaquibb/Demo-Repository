@@ -8,11 +8,20 @@
 // console.log(typeof score);
 // console.log(score);
 
-let isA=-0.2374;
-let isB="";
-console.log(isA);
-console.log(typeof isA);
-console.log(Boolean(isA));
-console.log(typeof isA);
-console.log(Boolean(isB));
-console.log(typeof isB);
+// *****************conversion****************
+
+// let isA=-0.2374;
+// let isB="";
+// console.log(isA);
+// console.log(typeof isA);
+// console.log(Boolean(isA));
+// console.log(typeof isA);
+// console.log(Boolean(isB));
+// console.log(typeof isB);
+
+// ******************operation****************
+// console.log(3+4*5%3);
+// console.log(+true);
+
+// ******************compare****************
+ console.log("02"=="2");
